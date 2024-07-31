@@ -1,4 +1,3 @@
-Rural Investments 2024 Dashboard
 # Overview
 The Rural Investments 2024 Dashboard is an interactive web application designed to visualize investment data in rural areas across the USA for the year 2024. This dashboard provides various interactive charts and filters to help users explore and analyze investment trends and distributions.
 
@@ -6,8 +5,8 @@ The Rural Investments 2024 Dashboard is an interactive web application designed 
 
 ## Features
 - Investment Overview: Displays the total investment amount in a card.
-- State-wise Investment: Interactive chart showing investments by state.
-- Program-wise Investment: Customizable chart displaying investment by program area or program name.
+- Investment by Location: Interactive chart showing investments by state.
+- Investment Segmentation : Customizable chart displaying investment by program area or investment type.
 
 ## Installation
 ### Prerequisites
